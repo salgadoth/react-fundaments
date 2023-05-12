@@ -1,4 +1,4 @@
-import ContadorContexto from '@/components/data / contexts/ContadorContexto'
+import ContadorContexto from '@/contexts/data/ContadorContexto'
 import { useContext } from 'react'
 
 export default function Alterar() {
